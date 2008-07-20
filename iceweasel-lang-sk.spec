@@ -2,12 +2,12 @@
 Summary:	Slovak resources for Iceweasel
 Summary(pl.UTF-8):	Słowackie pliki językowe dla Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0
-Release:	2
+Version:	3.0.1
+Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	113880c8d92b751aaafd5af5f9f14256
+# Source0-md5:	609f9829f703f43b7626bf83877c4331
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
